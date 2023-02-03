@@ -1,0 +1,14 @@
+OBGit is a version control system.
+Git is free software.
+恢复版本后增加文字.
+dev branch
+feature 1
+master 增加
+feature 增加
+feature 增加
+feature 增加
+featrue2 功能 增加
+测试解决冲突
+测试解决冲突2
+测试解决冲突3
+origin
