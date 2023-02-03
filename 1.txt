@@ -1,0 +1,174 @@
+ git config --list
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+rebase.autosquash=true
+http.sslcainfo=D:/01_devtools/08_git/install/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+credential.helper=manager
+user.name=slySmile
+user.email=18398850851tx@gmail.com
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+...skipping...
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+rebase.autosquash=true
+http.sslcainfo=D:/01_devtools/08_git/install/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+credential.helper=manager
+user.name=slySmile
+user.email=18398850851tx@gmail.com
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+...skipping...
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+rebase.autosquash=true
+http.sslcainfo=D:/01_devtools/08_git/install/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+credential.helper=manager
+user.name=slySmile
+user.email=18398850851tx@gmail.com
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+remote.origin.url=git@github.com:goto456/simple-git.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+
+Administrator@T123456 MINGW64 /d/07_combat/git_repository/simple-git (master)
+$ git config --global i18n.logoutputencoding utf-8
+
+Administrator@T123456 MINGW64 /d/07_combat/git_repository/simple-git (master)
+$
+
+Administrator@T123456 MINGW64 /d/07_combat/git_repository/simple-git (master)
+$
+
+Administrator@T123456 MINGW64 /d/07_combat/git_repository/simple-git (master)
+$
+
+Administrator@T123456 MINGW64 /d/07_combat/git_repository/simple-git (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        test.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Administrator@T123456 MINGW64 /d/07_combat/git_repository/simple-git (master)
+$ git config --global core.quotepath false
+git config --global i18n.commitencoding utf-8
+Administrator@T123456 MINGW64 /d/07_combat/git_repository/simple-git (master)
+$ git config --global i18n.commitencoding utf-8
+
+Administrator@T123456 MINGW64 /d/07_combat/git_repository/simple-git (master)
+$ git config --global i18n.commitencoding utf-8
+
+Administrator@T123456 MINGW64 /d/07_combat/git_repository/simple-git (master)
+$
+
+Administrator@T123456 MINGW64 /d/07_combat/git_repository/simple-git (master)
+$
+
+Administrator@T123456 MINGW64 /d/07_combat/git_repository/simple-git (master)
+$
+
+Administrator@T123456 MINGW64 /d/07_combat/git_repository/simple-git (master)
+$
+
+111
+1
